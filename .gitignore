@@ -1,0 +1,17 @@
+*.retry
+*.vagrant
+pkg
+.idea
+*.orig
+
+out
+*.orig
+.bundle
+
+bucketname.txt
+generated_templates
+
+*.sublime*
+output
+
+migrateToCFStep/libs
